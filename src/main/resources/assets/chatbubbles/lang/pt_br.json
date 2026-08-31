@@ -1,0 +1,26 @@
+{
+  "key.categories.chatbubbles": "Chat Bubbles",
+  "key.chatbubbles.settings": "Abrir configurações da bolha",
+
+  "chatbubbles.screen.title": "Chat Bubbles",
+  "chatbubbles.screen.preview": "Prévia ao vivo",
+  "chatbubbles.screen.sample": "Olá! Esta é uma bolha de chat.",
+  "chatbubbles.screen.save": "Salvar",
+  "chatbubbles.screen.reset": "Resetar",
+  "chatbubbles.screen.saved": "Aparência da bolha salva",
+
+  "chatbubbles.option.bg_color": "Fundo",
+  "chatbubbles.option.border_color": "Borda",
+  "chatbubbles.option.text_color": "Texto",
+  "chatbubbles.option.offset": "Altura: %s",
+  "chatbubbles.option.spacing": "Espaçamento: %s",
+  "chatbubbles.option.hide_nametag": "Esconder nametag",
+
+  "chatbubbles.command.invalid_hex": "Use uma cor hexadecimal de 6 dígitos sem #, por exemplo FFFFFF",
+  "chatbubbles.command.bg_color": "Cor de fundo da bolha definida para #%s",
+  "chatbubbles.command.border_color": "Cor da borda da bolha definida para #%s",
+  "chatbubbles.command.text_color": "Cor do texto da bolha definida para #%s",
+  "chatbubbles.command.offset": "Altura da bolha definida para %s",
+  "chatbubbles.command.spacing": "Espaçamento da bolha definido para %s",
+  "chatbubbles.command.hide_nametag": "Esconder nametag definido para %s"
+}
